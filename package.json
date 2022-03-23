@@ -1,0 +1,10 @@
+{
+  "name": "whatsapp-automation",
+  "version": "1.0.0",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-chat-parser": "^3.2.1",
+    "whatsapp-web.js": "^1.16.4"
+  }
+}
